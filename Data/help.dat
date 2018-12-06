@@ -1,0 +1,65 @@
+Morse code requires the time between dits and dahs, between letters, and between words to be as accurate as possible.
+
+A Dit takes - 1 unit of time
+A Dah takes - 3 units of time
+The pause between letters - 3 units of time
+The pause between words - 6 units of time
+
+
+For example, A is denoted as ".-" while B is denoted as "-...". But while
+writing a sentence, international rule is to put 3 space betweed every
+letter and "|" sign between each word.
+
+Example of a sentence:
+This is a nice sunny day: "-   ....   ..   ...   |   ..   ...   |   .-   |   -.   ..   -.-.   .   |   ...   ..-   -.   -.   -.---   |   -..   .-   -.--   ..--."
+
+List of all characer in Morse Code:
+
+	A = .-
+	B = -...
+	C = -.-.
+	D = -..
+	E = .
+	F = ..-.
+	G = --.
+	H = ....
+	I = ..
+	J = .---
+	K = -.-
+	L = .-..
+	M = --
+	N = -.
+	O = ---
+	P = .--.
+	Q = --.-
+	R = .-.
+	S = ...
+	T = -
+	U = ..-
+	V = ...-
+	W = .--
+	X = -..-
+	Y = -.--
+	Z = --..
+
+	0 = -----
+	1 = .----
+	2 = ..---
+	3 = ...--
+	4 = ....- 
+	5 = .....
+	6 = -....
+	7 = --...
+	8 = ---..
+	9 = ----.
+
+	. = .-.-.-
+	, = --..--
+	? = ..--..
+	! = ..--.
+	: = ---...
+	; = -.-.-
+	/ = -..-.
+	@ = .--.-.
+	' = .----.
+	= = -....-

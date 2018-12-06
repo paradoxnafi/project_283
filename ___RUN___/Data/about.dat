@@ -1,0 +1,33 @@
+Morse code is a type of code that is used to send telegraphic 
+information using rhythm. Morse code uses dots and dashes to 
+show the alphabet letters, numbers, punctuation and special 
+characters of a given message. When messages are sent by Morse 
+code, dots are short beeps or clicks or flashes, and dashes are
+longer ones.
+
+Morse code was invented by an American called Samuel Finley Breese Morse, 
+(1791-1872). He was not only an inventor but also a famous painter.
+The first commercial telegraph was developed by William Forthergill 
+Cooke and Charles Wheatstone in 1837. Then, in 1838, Samuel Morse and 
+his assistant, Alfred Vail, demonstrated an even more successful telegraph
+device which sent messages using a special code - Morse code.
+
+The most well-known signal sent using Morse Code is:
+"...   ---   ..."
+and is the distress signal SOS.
+
+
+
+Copyright (C) 2018 paradoxnafi@protonmail.com
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundationversion 3.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see http://www.gnu.org/licenses/gpl-3.0.html

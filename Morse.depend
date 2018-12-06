@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1542455570 source:c:\documents and settings\administrator\desktop\morse\morse\login.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	"Login.h"
+	"Translator.h"
+	<conio.h>
+
+1542450161 c:\documents and settings\administrator\desktop\morse\morse\login.h
+
+1542455304 c:\documents and settings\administrator\desktop\morse\morse\translator.h
+
+1542455233 source:c:\documents and settings\administrator\desktop\morse\morse\translator.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"Translator.h"
+	"Login.h"
+
+1542450157 source:c:\documents and settings\administrator\desktop\morse\morse\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Login.h"
+	"Translator.h"
+
+1542464156 source:c:\documents and settings\administrator\my documents\programming\morsecodetranslator-master\windows_only\login.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"Login.h"
+	"Translator.h"
+	<conio.h>
+
+1542464068 c:\documents and settings\administrator\my documents\programming\morsecodetranslator-master\windows_only\login.h
+
+1542464066 c:\documents and settings\administrator\my documents\programming\morsecodetranslator-master\windows_only\translator.h
+
+1542464069 source:c:\documents and settings\administrator\my documents\programming\morsecodetranslator-master\windows_only\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Login.h"
+	"Translator.h"
+
+1542464341 source:c:\documents and settings\administrator\my documents\programming\morsecodetranslator-master\windows_only\translator.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	"Translator.h"
+	"Login.h"
+
+1543204479 source:c:\users\student\.atom\.apm\pr39\morsecodetranslator\windows_only\login.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"Login.h"
+	"Translator.h"
+	<conio.h>
+
+1543204218 c:\users\student\.atom\.apm\pr39\morsecodetranslator\windows_only\login.h
+
+1543204218 c:\users\student\.atom\.apm\pr39\morsecodetranslator\windows_only\translator.h
+
+1543204218 source:c:\users\student\.atom\.apm\pr39\morsecodetranslator\windows_only\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Login.h"
+	"Translator.h"
+
+1543204218 source:c:\users\student\.atom\.apm\pr39\morsecodetranslator\windows_only\translator.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	"Translator.h"
+	"Login.h"
+
+1544077776 source:c:\users\student\desktop\morsecodetranslator\windows_only\login.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"Login.h"
+	"Translator.h"
+	<conio.h>
+
+1544075269 c:\users\student\desktop\morsecodetranslator\windows_only\login.h
+
+1544075269 c:\users\student\desktop\morsecodetranslator\windows_only\translator.h
+
+1544075269 source:c:\users\student\desktop\morsecodetranslator\windows_only\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Login.h"
+	"Translator.h"
+
+1544077808 source:c:\users\student\desktop\morsecodetranslator\windows_only\translator.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	"Translator.h"
+	"Login.h"
+
+1544078311 source:c:\users\student\desktop\tmp\morsecodetranslator\windows_only\login.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"Login.h"
+	"Translator.h"
+	<conio.h>
+
+1544078311 c:\users\student\desktop\tmp\morsecodetranslator\windows_only\login.h
+
+1544078311 c:\users\student\desktop\tmp\morsecodetranslator\windows_only\translator.h
+
+1544078311 source:c:\users\student\desktop\tmp\morsecodetranslator\windows_only\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Login.h"
+	"Translator.h"
+
+1544078311 source:c:\users\student\desktop\tmp\morsecodetranslator\windows_only\translator.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<sstream>
+	"Translator.h"
+	"Login.h"
+
