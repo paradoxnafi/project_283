@@ -6,3 +6,4 @@ Converts morsecode code to regular text and regular text into morsecode
 ## And English text into morse code. You need to login to
 ## use this software. Default username is "admin" and default
 ## password is "AdmiN"
+## This code requires latest version of Code Blocks (17.12) to compile properly
