@@ -7,3 +7,5 @@ Converts morsecode code to regular text and regular text into morsecode
 ## use this software. Default username is "admin" and default
 ## password is "AdmiN"
 ## This code requires latest version of Code Blocks (17.12) to compile properly
+## Double click Morse.cbp to open the project in Code Blocks
+## Under "__RUN__" folder, a compiled program is available
